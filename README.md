@@ -1,45 +1,68 @@
-🎯 Economic Objective Functions in Refinery and Society
-This project is about understanding how we can use different economic objective functions to make smart decisions — both in society and in industries like oil refineries.
+# 🎯 Economic Objective Functions in Society and Oil Refineries
 
-An economic objective function helps us decide how to use resources in the best way to meet people's needs and goals. Different countries or companies may choose different goals depending on their values, situation, and future plans.
+This project explores how different **economic objective functions** can help guide better decision-making in both **society** and **industrial systems** like **oil refineries**.
 
-💡 Common Economic Objectives
-Here are some common goals societies and governments may focus on:
+An **economic objective function** is basically a tool that helps decide how to use resources (money, energy, people, etc.) in the best way to achieve certain goals. These goals can change based on what a country or company values most — such as growth, fairness, or sustainability.
 
-Economic Growth: Making more goods and services to improve people's lives.
+---
 
-Balanced Development: Making sure no group or region is left behind.
+## 🌍 Common Economic Objectives in Society
 
-Social Justice: Reducing income inequality and giving equal opportunities to everyone.
+Here are some typical goals that societies or governments might focus on:
 
-Environmental Sustainability: Protecting nature and resources for the future.
+- **Economic Growth**  
+  Increasing national production and income to improve living standards.
 
-Economic Stability: Avoiding big ups and downs in the economy.
+- **Balanced Development**  
+  Making sure all parts of the economy grow fairly, avoiding big gaps between groups.
 
-Human Development: Improving education, healthcare, and living conditions.
+- **Social Justice**  
+  Reducing inequality in income and giving equal opportunities to everyone.
 
-Different places may use a mix of these goals, and they can change over time.
+- **Environmental Sustainability**  
+  Protecting natural resources so future generations can live well too.
 
-🛢️ Economic Objectives in Oil Refineries
-In oil refineries, we often use two main types of economic objectives:
+- **Economic Stability**  
+  Keeping the economy stable over time, avoiding large ups and downs.
 
-1. Cost Function
-The goal is to reduce costs and work more efficiently. This includes things like energy use, equipment maintenance, labor, and production costs.
+- **Human Development**  
+  Improving things like education, health, and quality of life.
 
-2. Profit Function
-Here, the focus is on making the most profit. That means increasing income from selling products, reducing costs, and improving performance.
+Each country may use a combination of these goals, depending on their local and global situation.
 
-⚙️ Why It Matters
-Choosing the right economic objective depends on many things:
+---
 
-Oil prices
+## 🛢️ Economic Objectives in Oil Refineries
 
-Global market demand
+In oil refineries, we usually focus on these two main goals:
 
-Technology
+### 1. Cost Function  
+The goal here is to **reduce operational costs** and increase efficiency. This includes:
+- Equipment maintenance
+- Energy use
+- Labor costs
+- Material usage
 
-Environmental laws
+### 2. Profit Function  
+The focus here is on **maximizing profit** by:
+- Increasing revenue from selling products
+- Lowering production costs
+- Improving production and marketing strategies
 
-Competition
+Choosing the right function depends on factors like:
+- Oil prices  
+- Global demand and supply  
+- Technology used  
+- Environmental and legal rules  
+- Competition in the market  
 
-Sustainability and long-term planning are also becoming more important in modern economic decisions.
+---
+
+## 📌 Why This Matters
+
+Understanding and applying economic objective functions helps:
+- Improve decision-making
+- Create more sustainable industries
+- Achieve long-term national or company goals
+
+---
