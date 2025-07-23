@@ -4,6 +4,8 @@ This project explores how different **economic objective functions** can help gu
 
 An **economic objective function** is basically a tool that helps decide how to use resources (money, energy, people, etc.) in the best way to achieve certain goals. These goals can change based on what a country or company values most — such as growth, fairness, or sustainability.
 
+<img width="975" height="612" alt="image" src="https://github.com/user-attachments/assets/c5f54df1-c3e8-492a-9bb2-04e0c0fe41d5" />
+
 ---
 
 ## 🌍 Common Economic Objectives in Society
